@@ -19,6 +19,7 @@ This github repository will walk you through setting up your Git and GitHub acco
 - [x] Standard Work Flow
 
 ---
+Ok 2
 
 ## View this README
 First step complete! Welcome and good luck over the next steps!  
